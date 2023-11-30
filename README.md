@@ -23,6 +23,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+Example of a Simple Crud.<br>
+Building using this tutorial 👉🏽 https://www.youtube.com/watch?v=vUcNydH1tz0
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
